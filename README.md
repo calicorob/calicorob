@@ -33,3 +33,6 @@ When i'm not at work, I like to pursue outside projects to further my understand
 * I like to write on [Medium](https://medium.com/@robert.art.currie) about my side projects. 
 * I participate in [Kaggle](https://www.kaggle.com/robertcurrie) competitions and community whenever I can.
 * When i'm not crunching numbers, I enjoy working out, golfing and curling. 
+
+## Contact
+I can be reached at robert.art.currie@gmail.com. 
