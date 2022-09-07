@@ -1,12 +1,12 @@
 ## Introduction
 
-Hi, my name is [Robert Currie](https://www.linkedin.com/in/robertarthurcurrie/), i'm a 27 year data old data scientist from Toronto, ON. 
+Hi, my name is [Robert Currie](https://www.linkedin.com/in/robertarthurcurrie/), i'm a 28 year data old analytics engineer from Toronto, ON. 
 
 My background:
 * I graduated from Queen's University with a B.A.Sc. in Chemical Engineering in 2016. 
 * I graduated from the University of Waterloo with a MASc. in Chemical Engineering in 2019.
 
-I got interested in data science and machine learning while working on my Masters' Degree at the University of Waterloo.
+I got interested in data science, analytics and machine learning while working on my Masters' Degree at the University of Waterloo.
 
 ## Work 
 ### University of Waterloo
@@ -21,7 +21,13 @@ My regression and modelling work has been used in [4 publications](https://schol
 
 After graudating from Waterloo, I moved into a data science role at JANA Corporaton. 
 
-At JANA, I use data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base. 
+At JANA, I used data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base. 
+
+I worked at JANA as a data scientist from May 2019 - March 2022.
+
+### ACV Auctions
+
+After JANA, I started as a product analytics engineer at ACV auctions. I started working at ACV in March 2022 and am still in that role. 
 
 ### Projects 
 When i'm not at work, I like to pursue outside projects to further my understanding in data science and machine learning:
@@ -30,9 +36,7 @@ When i'm not at work, I like to pursue outside projects to further my understand
 * I scraped thousands of Curling game scores to build [Curling analytics](https://github.com/calicorob/CurlingAnalytics) for use in my own competitive curling career. 
 
 ## Other Interesting Stuff
-* I like to write on [Medium](https://medium.com/@robert.art.currie) about my side projects. 
-* I participate in [Kaggle](https://www.kaggle.com/robertcurrie) competitions and community whenever I can.
 * When i'm not crunching numbers, I enjoy working out, golfing and curling. 
 
 ## Contact
-I can be reached at robert.art.currie@gmail.com. 
+I can be reached at robert.art.currie@gmail.com or through [LinkedIn](https://www.linkedin.com/in/robertarthurcurrie/). 
